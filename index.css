@@ -1,0 +1,106 @@
+.wrapper {
+    min-height: 100%;
+    width: 100%;
+    /* margin: -70px; */
+    
+
+
+}
+
+div {
+    display: inline-block;
+}
+
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+
+.footer {
+    background-color: #FFBE56;
+    width: 100%;
+    padding-top: 20px;
+    height: 50px;
+    margin: 10px;
+}
+
+
+.navBar {
+    background-color: #FFBE56;
+    /* top: 0; */
+    width: 48%;
+    padding-top: 20px;
+    /* position: absolute; */
+    height: 100px;
+    margin: 10px;
+    /* margin-bottom: 5%; */
+}
+
+.theBeef {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    /* z-index: 2; */
+    background-color: #FFFF56;
+    /* display: inline-block; */
+}
+
+#pilar {
+    
+}
+
+.pilarOne {
+    width: 38.19656225%;
+    height: 690px;
+    /* z-index: 1; */
+    background-color: #8B17F5;
+    /* margin-left: 3%; */
+    float: left;
+    text-align: center;
+}
+
+.pilarTwo {
+    width: 39.050000006225%;
+    height: 690px;
+    z-index: 1;
+    position: relative;
+    background-color: #7D02EE;
+    /* margin-left: 33%; */
+    float: right;
+}
+
+.pilarThree {
+    width: 22.7220648801%;
+    height: 690px;
+    position: static;
+    /* z-index: 1; */
+    float: left;
+    background-color: #7D02EE;
+    /* float: initial */
+    text-align: inherit;
+}
+
+
+
+body{
+    background-color: #4BDE7D;
+    font-family: 'Audiowide', cursive;}
+
+h1 {
+    font-family: 'Audiowide', cursive;    text-align: center;
+}
+
+h3 {
+    font-family: 'Audiowide', cursive;}
+
+p {
+    font-family: 'Audiowide', cursive;    
+}
+
+footer {
+    font-family: 'Inconsolata', monospace;
+    background-color: beige;
+    /* margin-top: 2%; */
+    
+}
